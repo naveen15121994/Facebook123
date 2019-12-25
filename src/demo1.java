@@ -5,6 +5,8 @@ public class demo1 {
 	{
 		System.out.println("hello java");
 		System.out.println("hello java123");
+		System.out.println("hello");
+
 
 
 	}
